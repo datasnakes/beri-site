@@ -17,10 +17,11 @@ markdown: kramdown
 title:       "beRi"
 keywords:    "beri, R, programming, hackseq18"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/datasnakes/beri-site"
+source_link: "https://github.com/datasnakes/beri"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
+site_image:  "img/beri.jpg"
 
 
 ### template colors, used site-wide via css ###
