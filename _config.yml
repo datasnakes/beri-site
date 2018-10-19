@@ -5,7 +5,7 @@ host: localhost
 safe: false
 
 
-### site serving configuration ###
+# site serving configuration
 exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
 timezone: null
@@ -13,18 +13,19 @@ lsi: false
 markdown: kramdown
 
 
-### content configuration ###
+# content configuration
 title:       "beRi"
 keywords:    "beri, R, programming, hackseq18"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "beRi is a package management system for the R programming language"
 source_link: "https://github.com/datasnakes/beri"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
-site_image:  "img/beri.jpg"
+site_image: "img/beri.jpg"
+og_image: "img/beri.jpg"
 
 
-### template colors, used site-wide via css ###
+# template colors, used site-wide via css ###
 colors:
   black:     '#111111'
   white:     '#ffffff'
@@ -33,7 +34,9 @@ colors:
   purple:    '#c869bf'
   orange:    '#E16E2D'
   turquoise: '#0fbfcf'
+  yellow: '#E1DC2E'
 
+# Kramdown configuration
 kramdown:
   auto_ids:  false
 
