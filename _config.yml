@@ -27,7 +27,7 @@ og_image: "img/beri.jpg"
 
 # template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
+  black:     '#000000'
   white:     '#ffffff'
   blue:      '#2E33E1'
   green:     '#7AE12D'
@@ -35,6 +35,9 @@ colors:
   orange:    '#E16E2D'
   turquoise: '#0fbfcf'
   yellow: '#E1DC2E'
+  secondary: '#69C85F'
+  tertiary: '#479691'
+  primary: '#C8F466'
 
 # Kramdown configuration
 kramdown:

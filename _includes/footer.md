@@ -1,4 +1,4 @@
 
 
-Built with [Jekyll](https://jekyllrb.com/)
+Powered by [Jekyll](https://jekyllrb.com/)
 
