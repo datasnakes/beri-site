@@ -1,4 +1,3 @@
 
-
-Powered by [Jekyll](https://jekyllrb.com/)
+<img src="{{ site.hackseq }}" />
 

@@ -23,6 +23,7 @@ touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
 site_image: "img/beri.jpg"
 og_image: "img/beri.jpg"
+hackseq: "img/hackseq_project_tag.png"
 
 
 # template colors, used site-wide via css ###
