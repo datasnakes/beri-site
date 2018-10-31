@@ -20,7 +20,7 @@ description: "beRi is a package management system for the R programming language
 source_link: "https://github.com/datasnakes/beri"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:
+google_analytics_key: "UA-118740071-6"
 site_image: "img/beri.jpg"
 og_image: "img/beri.jpg"
 hackseq: "img/hackseq_project_tag.png"
